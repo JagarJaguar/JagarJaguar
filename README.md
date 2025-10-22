@@ -5,7 +5,7 @@
 ![vscode](https://api.statusbadges.me/badge/vscode/416760477516038197)
 ![intellij](https://api.statusbadges.me/badge/intellij/416760477516038197)
 
-Status badges by [StatusBadges](https://statusbadges.me), created by [Advaith](https://github.com/advaith1).
+Made with [StatusBadges](https://statusbadges.me), created by [Advaith](https://github.com/advaith1).
 
 probably the worst coder to exist.
 
