@@ -1,4 +1,13 @@
-## Hi there 👋
+# hello guys
+
+![status](https://api.statusbadges.me/badge/status/416760477516038197?simple=true)
+![playing](https://api.statusbadges.me/badge/playing/416760477516038197)
+![vscode](https://api.statusbadges.me/badge/vscode/416760477516038197)
+![intellij](https://api.statusbadges.me/badge/intellij/416760477516038197)
+
+Status badges by [StatusBadges](https://statusbadges.me), created by [Advaith](https://github.com/advaith1).
+
+probably the worst coder to exist.
 
 <!--
 **JagarJaguar/JagarJaguar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
