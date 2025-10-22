@@ -7,7 +7,8 @@
 
 Made with [StatusBadges](https://statusbadges.me), created by [Advaith](https://github.com/advaith1).
 
-probably the worst coder to exist.
+
+about me: probably the worst coder to exist.
 
 <!--
 **JagarJaguar/JagarJaguar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
